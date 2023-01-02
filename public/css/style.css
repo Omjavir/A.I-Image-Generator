@@ -51,8 +51,9 @@ body {
 
 /* Showcase */
 .showcase {
-  height: 50vw;
+  height: 16vw;
   width: 100vw;
+  padding-top: 50px;
   background: var(--primary-color);
 }
 

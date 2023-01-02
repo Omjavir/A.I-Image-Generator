@@ -14,4 +14,4 @@ app.use(express.static(path.join(__dirname, 'public')))
 
 app.use('/api', require('./routes/openaiRoutes'))
 
-app.listen(port, () => console.log(`App listening on port ${port}`))
+app.listen(port, () => console.log(`App listening on port http://localhost:${port}`))

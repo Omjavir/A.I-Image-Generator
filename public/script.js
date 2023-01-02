@@ -1,4 +1,5 @@
 console.log("Hello World");
+alert("Clone this repo to see the results, As OpenAi api does not allow to use their api for Production.")
 
 function handleSubmit(e) {
     e.preventDefault();
